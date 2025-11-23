@@ -1,3 +1,8 @@
+# Note
+PFB the link for model.safetensors file which couldn't be uploaded to Git.
+https://drive.google.com/file/d/1fnMKj28yUBzVWGhJqOpmwoBBrNhIqtjw/view?usp=sharing
+
+
 # PII NER Assignment Skeleton
 
 This repo is a skeleton for a token-level NER model that tags PII in STT-style transcripts.
